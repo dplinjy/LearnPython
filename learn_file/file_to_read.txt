@@ -1,0 +1,6 @@
+line 1: Hello, Mike.
+line 2: Nice to meet you. I'm Nick.
+line 3: Welcome to Shenzhen.
+line 4: Thx, it is really a beautiful city. I enjoy my time here.
+line 5: It is. Shall we go for some coffee this afternoon.
+line 6：Sure. And I want to discuss some details about the project we're going to work for.

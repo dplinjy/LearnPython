@@ -1,3 +1,5 @@
-sum = lambda a, b: a*b
+# encoding:UTF8
 
-print(sum(5, 4))
+sum = lambda x, y: x*y
+
+print(sum(10, 20))
