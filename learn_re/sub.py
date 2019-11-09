@@ -8,6 +8,6 @@ num = re.sub(r'#.*$', "", phone)
 
 print("电话号码：", num)
 
-num2 = re.sub(r'\D', "", phone)
+num2 = re.sub(r'\D', '', phone)
 
-print("电话号码：", num)
+print("电话号码：", num2)
