@@ -11,3 +11,13 @@ dic.update(dic2)
 
 print(dic)
 
+
+dd = {'name': 'Mike', 'age': 20, 'job': 'student'}
+
+del dd['job']
+print(dd)
+
+ddd = {'job': ['student', 'kids']}
+
+dd.update(ddd)
+print(dd)

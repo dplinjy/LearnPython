@@ -2,147 +2,176 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b3645e6-87d5-4237-94fd-46650148876e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/howTOPrepareTestData/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howTOPrepareTestData/genData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_json/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_json/jjson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_json/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_json/test2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_unittest/Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_unittest/MyTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_unittest/TestCalcFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_unittest/TestMyClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_unittest/TestSeqFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_unittest/TestSequenceFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_unittest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_unittest/unittest_suite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/43_zip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/44_re_sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/51_findall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/52_sortListASC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/54_round.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/66_copy_deepcopy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/69_genrator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/70_string_strip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/71_sort_sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/72_sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleProcedure/73_sorted2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LearnPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/11_totalRabies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/12_MagicNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/1_multiFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/2_calProfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/3_imageNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/5_getMin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/6_Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/7_copyList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/8_sleep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/9_strftime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example100/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir1/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir1/test_sample2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir2/test_addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir3/test_addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir4/test_addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir4/test_basic_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir4/test_sample1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir4/test_sample2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir5/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir5/test_addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir5/test_basic_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir5/test_basic_fixture2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir6/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir6/test_list_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir6/test_login_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir7_2020-2-16/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir7_2020-2-16/test_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir7_2020-2-16/test_fixture2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir7_2020-2-16/test_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir8/bb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/dir8/test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/test_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/test_seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/test_tmp_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/test_tmpdir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaen_pytest/test_tmpdir2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_GUI/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_GUI/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_asynch/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_asynch/simpletest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_asynch/withsession.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/createPresignedURL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/create_bucket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/demo_aws.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/download_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/fox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/identifyAcessPolicy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/list_bucket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/upload_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_aws/upload_file_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_chardet/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_md5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_md5/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_md5/面试准备.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_pillow/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_pillow/fox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_pillow/painter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_pillow/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_recursion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_recursion/fact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_requests/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_tcp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_tcp/do_tcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_thread/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_thread/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_udp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_udp/udp_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_udp/udp_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/Epam/data_sourcing_demo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/Epam/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/Epam/demo2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/Epam/extract_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/call_back/callback_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/csv_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/expat_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/xml_dom/customer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_xml/xml_dom/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleProcedure/73_getPrimeNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn_re/sub.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_re/sub.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleProcedure/41_try_else_finally.py" beforeDir="false" afterPath="$PROJECT_DIR$/simpleProcedure/41_try_else_finally.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn_unittest/Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_unittest/Calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleProcedure/1_CaculateBySum.py" beforeDir="false" afterPath="$PROJECT_DIR$/simpleProcedure/1_CaculateBySum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleProcedure/2_alter_global_param_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/simpleProcedure/2_alter_global_param_value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleProcedure/4_delDictUpdateDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/simpleProcedure/4_delDictUpdateDict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleProcedure/6_delDuplicateItem.py" beforeDir="false" afterPath="$PROJECT_DIR$/simpleProcedure/6_delDuplicateItem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleProcedure/7_argsKwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/simpleProcedure/7_argsKwargs.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/LearnPython$MyTest.coverage" NAME="MyTest Coverage Results" MODIFIED="1573176590197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
     <SUITE FILE_PATH="coverage/LearnPython$Unittests_in_TestMyClass_py.coverage" NAME="Unittests in TestMyClass.py Coverage Results" MODIFIED="1573136149652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
     <SUITE FILE_PATH="coverage/LearnPython$genData.coverage" NAME="genData Coverage Results" MODIFIED="1573205540249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/howTOPrepareTestData" />
-    <SUITE FILE_PATH="coverage/LearnPython$jjson.coverage" NAME="jjson Coverage Results" MODIFIED="1573092034419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_json" />
+    <SUITE FILE_PATH="coverage/LearnPython$2_alter_global_param_value.coverage" NAME="2_alter_global_param_value Coverage Results" MODIFIED="1573992192880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
     <SUITE FILE_PATH="coverage/LearnPython$sub.coverage" NAME="sub Coverage Results" MODIFIED="1573105245140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_re" />
-    <SUITE FILE_PATH="coverage/LearnPython$43_zip.coverage" NAME="43_zip Coverage Results" MODIFIED="1573092552548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
-    <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestMyClass_mytest.coverage" NAME="Unittests for TestMyClass.mytest Coverage Results" MODIFIED="1573136094830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
-    <SUITE FILE_PATH="coverage/LearnPython$54_round.coverage" NAME="54_round Coverage Results" MODIFIED="1573109243726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1579697044478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_pillow" />
+    <SUITE FILE_PATH="coverage/LearnPython$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1582690569535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leaen_pytest/dir8" />
+    <SUITE FILE_PATH="coverage/LearnPython$9_strftime.coverage" NAME="9_strftime Coverage Results" MODIFIED="1573991465514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example100" />
+    <SUITE FILE_PATH="coverage/LearnPython$1_CaculateBySum.coverage" NAME="1_CaculateBySum Coverage Results" MODIFIED="1573992142732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$6_delDuplicateItem.coverage" NAME="6_delDuplicateItem Coverage Results" MODIFIED="1573992423508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
     <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestSequenceFunctions_TestSequnceFunctions.coverage" NAME="Unittests for TestSequenceFunctions.TestSequnceFunctions Coverage Results" MODIFIED="1573133851129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
     <SUITE FILE_PATH="coverage/LearnPython$69_genrator.coverage" NAME="69_genrator Coverage Results" MODIFIED="1573110804876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
     <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestMyClass_mytest_testsub.coverage" NAME="Unittests for TestMyClass.mytest.testsub Coverage Results" MODIFIED="1573136133818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
     <SUITE FILE_PATH="coverage/LearnPython$51_findall.coverage" NAME="51_findall Coverage Results" MODIFIED="1573108537947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
     <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestSeqFunctions_TestSeqFunctions_test_choice.coverage" NAME="Unittests for TestSeqFunctions.TestSeqFunctions.test_choice Coverage Results" MODIFIED="1573175050444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
     <SUITE FILE_PATH="coverage/LearnPython$52_sortListASC.coverage" NAME="52_sortListASC Coverage Results" MODIFIED="1573108868252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
-    <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestMyClass_mytest_test_sub.coverage" NAME="Unittests for TestMyClass.mytest.test_sub Coverage Results" MODIFIED="1573136169707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
-    <SUITE FILE_PATH="coverage/LearnPython$66_copy_deepcopy.coverage" NAME="66_copy_deepcopy Coverage Results" MODIFIED="1573110484326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$5_getMin.coverage" NAME="5_getMin Coverage Results" MODIFIED="1573987630360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example100" />
     <SUITE FILE_PATH="coverage/LearnPython$73_sorted2.coverage" NAME="73_sorted2 Coverage Results" MODIFIED="1573111604001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
-    <SUITE FILE_PATH="coverage/LearnPython$41_try_else_finally.coverage" NAME="41_try_else_finally Coverage Results" MODIFIED="1573090264364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
     <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestSequenceFunctions_TestDictValueFormatFunctions_test_shuffle.coverage" NAME="Unittests for TestSequenceFunctions.TestDictValueFormatFunctions.test_shuffle Coverage Results" MODIFIED="1573133858615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
-    <SUITE FILE_PATH="coverage/LearnPython$72_sorted.coverage" NAME="72_sorted Coverage Results" MODIFIED="1573111257112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
-    <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestSequenceFunctions_TestDictValueFormatFunctions.coverage" NAME="Unittests for TestSequenceFunctions.TestDictValueFormatFunctions Coverage Results" MODIFIED="1573133869254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$callback_demo.coverage" NAME="callback_demo Coverage Results" MODIFIED="1577864172108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_xml/call_back" />
+    <SUITE FILE_PATH="coverage/LearnPython$demo_aws.coverage" NAME="demo_aws Coverage Results" MODIFIED="1578147788616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_aws" />
+    <SUITE FILE_PATH="coverage/LearnPython$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1578212712731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_aws" />
     <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestSeqFunctions_TestSeqFunctions.coverage" NAME="Unittests for TestSeqFunctions.TestSeqFunctions Coverage Results" MODIFIED="1573175000701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
-    <SUITE FILE_PATH="coverage/LearnPython$70_string_strip.coverage" NAME="70_string_strip Coverage Results" MODIFIED="1573110864511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
-    <SUITE FILE_PATH="coverage/LearnPython$Unittests_in_TestSeqFunctions_py.coverage" NAME="Unittests in TestSeqFunctions.py Coverage Results" MODIFIED="1573175157914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$2_calProfit.coverage" NAME="2_calProfit Coverage Results" MODIFIED="1573987278230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example100" />
     <SUITE FILE_PATH="coverage/LearnPython$unittest_suite.coverage" NAME="unittest_suite Coverage Results" MODIFIED="1573178415943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
     <SUITE FILE_PATH="coverage/LearnPython$71_sort_sorted.coverage" NAME="71_sort_sorted Coverage Results" MODIFIED="1573111176372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
-    <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestSeqFunctions_TestSeqFunctions_test_shuffle.coverage" NAME="Unittests for TestSeqFunctions.TestSeqFunctions.test_shuffle Coverage Results" MODIFIED="1573175060535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1582124225379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_requests" />
+    <SUITE FILE_PATH="coverage/LearnPython$list_bucket.coverage" NAME="list_bucket Coverage Results" MODIFIED="1578133191612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_aws" />
+    <SUITE FILE_PATH="coverage/LearnPython$test_fixture2.coverage" NAME="test_fixture2 Coverage Results" MODIFIED="1582038548208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leaen_pytest/dir7_2020-2-16" />
+    <SUITE FILE_PATH="coverage/LearnPython$8_print9x9.coverage" NAME="8_print9x9 Coverage Results" MODIFIED="1573990990857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example100" />
+    <SUITE FILE_PATH="coverage/LearnPython$test_fixture.coverage" NAME="test_fixture Coverage Results" MODIFIED="1582037896183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leaen_pytest/dir7_2020-2-16" />
     <SUITE FILE_PATH="coverage/LearnPython$TestCalcFunctions.coverage" NAME="TestCalcFunctions Coverage Results" MODIFIED="1573177135546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
-    <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestSeqFunctions_TestSeqFunctions_test_sample.coverage" NAME="Unittests for TestSeqFunctions.TestSeqFunctions.test_sample Coverage Results" MODIFIED="1573174431947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$withsession.coverage" NAME="withsession Coverage Results" MODIFIED="1579596857864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_asynch" />
     <SUITE FILE_PATH="coverage/LearnPython$Unittests_in_TestSequenceFunctions_py.coverage" NAME="Unittests in TestSequenceFunctions.py Coverage Results" MODIFIED="1573133694286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
     <SUITE FILE_PATH="coverage/LearnPython$calc.coverage" NAME="calc Coverage Results" MODIFIED="1573176003235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$7_copyList.coverage" NAME="7_copyList Coverage Results" MODIFIED="1573990743784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example100" />
+    <SUITE FILE_PATH="coverage/LearnPython$Calc.coverage" NAME="Calc Coverage Results" MODIFIED="1577974411254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$test.coverage" NAME="test Coverage Results" MODIFIED="1578821680330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_thread" />
+    <SUITE FILE_PATH="coverage/LearnPython$8_sleep.coverage" NAME="8_sleep Coverage Results" MODIFIED="1573991124637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example100" />
+    <SUITE FILE_PATH="coverage/LearnPython$MyTest.coverage" NAME="MyTest Coverage Results" MODIFIED="1573176590197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$expat_demo.coverage" NAME="expat_demo Coverage Results" MODIFIED="1577867318647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_xml" />
+    <SUITE FILE_PATH="coverage/LearnPython$createPresignedURL.coverage" NAME="createPresignedURL Coverage Results" MODIFIED="1578216115168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_aws" />
+    <SUITE FILE_PATH="coverage/LearnPython$jjson.coverage" NAME="jjson Coverage Results" MODIFIED="1573092034419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_json" />
+    <SUITE FILE_PATH="coverage/LearnPython$43_zip.coverage" NAME="43_zip Coverage Results" MODIFIED="1573092552548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestMyClass_mytest.coverage" NAME="Unittests for TestMyClass.mytest Coverage Results" MODIFIED="1573136094830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$test_sample.coverage" NAME="test_sample Coverage Results" MODIFIED="1577974655568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leaen_pytest" />
+    <SUITE FILE_PATH="coverage/LearnPython$54_round.coverage" NAME="54_round Coverage Results" MODIFIED="1573109243726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$1_multiFor.coverage" NAME="1_multiFor Coverage Results" MODIFIED="1573986387587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example100" />
+    <SUITE FILE_PATH="coverage/LearnPython$demo.coverage" NAME="demo Coverage Results" MODIFIED="1579878219984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_GUI" />
+    <SUITE FILE_PATH="coverage/LearnPython$6_Fibonacci.coverage" NAME="6_Fibonacci Coverage Results" MODIFIED="1573990539970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example100" />
+    <SUITE FILE_PATH="coverage/LearnPython$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1579698413050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_chardet" />
+    <SUITE FILE_PATH="coverage/LearnPython$73_getPrimeNumber.coverage" NAME="73_getPrimeNumber Coverage Results" MODIFIED="1573985365394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$simpletest.coverage" NAME="simpletest Coverage Results" MODIFIED="1579434989851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_asynch" />
+    <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestMyClass_mytest_test_sub.coverage" NAME="Unittests for TestMyClass.mytest.test_sub Coverage Results" MODIFIED="1573136169707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$66_copy_deepcopy.coverage" NAME="66_copy_deepcopy Coverage Results" MODIFIED="1573110484326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$41_try_else_finally.coverage" NAME="41_try_else_finally Coverage Results" MODIFIED="1573090264364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$72_sorted.coverage" NAME="72_sorted Coverage Results" MODIFIED="1573111257112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestSequenceFunctions_TestDictValueFormatFunctions.coverage" NAME="Unittests for TestSequenceFunctions.TestDictValueFormatFunctions Coverage Results" MODIFIED="1573133869254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$70_string_strip.coverage" NAME="70_string_strip Coverage Results" MODIFIED="1573110864511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$Unittests_in_TestSeqFunctions_py.coverage" NAME="Unittests in TestSeqFunctions.py Coverage Results" MODIFIED="1573175157914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$fact.coverage" NAME="fact Coverage Results" MODIFIED="1573983035891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_recursion" />
+    <SUITE FILE_PATH="coverage/LearnPython$identifyAcessPolicy.coverage" NAME="identifyAcessPolicy Coverage Results" MODIFIED="1578240327960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_aws" />
+    <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestSeqFunctions_TestSeqFunctions_test_shuffle.coverage" NAME="Unittests for TestSeqFunctions.TestSeqFunctions.test_shuffle Coverage Results" MODIFIED="1573175060535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
+    <SUITE FILE_PATH="coverage/LearnPython$download_file.coverage" NAME="download_file Coverage Results" MODIFIED="1578135155613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_aws" />
+    <SUITE FILE_PATH="coverage/LearnPython$painter.coverage" NAME="painter Coverage Results" MODIFIED="1579698099908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_pillow" />
+    <SUITE FILE_PATH="coverage/LearnPython$7_argsKwargs.coverage" NAME="7_argsKwargs Coverage Results" MODIFIED="1574166537557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$4_delDictUpdateDict.coverage" NAME="4_delDictUpdateDict Coverage Results" MODIFIED="1573992387256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
+    <SUITE FILE_PATH="coverage/LearnPython$extract_data.coverage" NAME="extract_data Coverage Results" MODIFIED="1577895620817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_xml/Epam" />
+    <SUITE FILE_PATH="coverage/LearnPython$Unittests_for_TestSeqFunctions_TestSeqFunctions_test_sample.coverage" NAME="Unittests for TestSeqFunctions.TestSeqFunctions.test_sample Coverage Results" MODIFIED="1573174431947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_unittest" />
     <SUITE FILE_PATH="coverage/LearnPython$44_re_sub.coverage" NAME="44_re_sub Coverage Results" MODIFIED="1573105175366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simpleProcedure" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Calc.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_unittest/Calc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="6" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_unittest/MyTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestSeqFunctions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_unittest/TestSeqFunctions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestCalcFunctions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_unittest/TestCalcFunctions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unittest_suite.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_unittest/unittest_suite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-              <folding>
-                <element signature="e#19#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="genData.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/howTOPrepareTestData/genData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -154,67 +183,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>g</find>
+      <find>base64.b64decode(ele_content.encode('utf-8'))</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\Study\PyCharmProject\LearnPython\learn_udp</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/learn_file/file_to_read" />
-        <option value="$PROJECT_DIR$/learn_file/file_to_read.txt" />
-        <option value="$PROJECT_DIR$/learn_file/read_file_sum.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/12_with.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/23_lambda.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/24_sortList.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/24_sortDict.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/25_counter.py" />
-        <option value="$PROJECT_DIR$/learn_re/search.py" />
-        <option value="$PROJECT_DIR$/learn_re/match.py" />
-        <option value="$PROJECT_DIR$/learn_re/test.py" />
-        <option value="$PROJECT_DIR$/learn_re/MatchandSearch.py" />
-        <option value="$PROJECT_DIR$/learn_re/group_span.py" />
-        <option value="$PROJECT_DIR$/learn_re/split.py" />
-        <option value="$PROJECT_DIR$/learn_re/findall.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/26_re.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/27_filter.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/28_genListexpr.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/30_tyoe.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/30_type.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/31_addList.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/32_delFile.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/33_printTimestamp.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/36_raiseException.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/39_traverseList.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/40_join_iterable.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/41_try_else_finally.py" />
-        <option value="$PROJECT_DIR$/learn_json/test.json" />
-        <option value="$PROJECT_DIR$/learn_json/en.json.py" />
-        <option value="$PROJECT_DIR$/learn_json/test2.json" />
-        <option value="$PROJECT_DIR$/learn_json/jjson.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/43_zip.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/44_re_sub.py" />
-        <option value="$PROJECT_DIR$/learn_re/sub.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/51_findall.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/52_sortListASC.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/54_round.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/66_copy_deepcopy.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/69_genrator.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/70_string_strip.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/71_sort_sorted.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/72_sorted.py" />
-        <option value="$PROJECT_DIR$/simpleProcedure/73_sorted2.py" />
-        <option value="$PROJECT_DIR$/learn_unittest/TestSequenceFunctions.py" />
-        <option value="$PROJECT_DIR$/learn_unittest/TestMyClass.py" />
-        <option value="$PROJECT_DIR$/learn_unittest/TestSeqFunctions.py" />
-        <option value="$PROJECT_DIR$/learn_unittest/calc.py" />
-        <option value="$PROJECT_DIR$/learn_unittest/MyTest.py" />
-        <option value="$PROJECT_DIR$/learn_unittest/TestCalcFunctions.py" />
-        <option value="$PROJECT_DIR$/learn_unittest/unittest_suite.py" />
-        <option value="$PROJECT_DIR$/howTOPrepareTestData/genData.py" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -225,69 +201,37 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1113" />
-    <option name="y" value="128" />
-    <option name="width" value="879" />
-    <option name="height" value="1070" />
+  <component name="ProjectId" id="1b1jMhBsnoNtg0ZnapQpKlVzo4C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LearnPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnPython" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnPython" type="462c0819:PsiDirectoryNode" />
-              <item name="howTOPrepareTestData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnPython" type="462c0819:PsiDirectoryNode" />
-              <item name="simpleProcedure" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ApiAutoTest_UAT_withoutProxy" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn_singleton" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\PyCharmProject\LearnPython\learn_singleton" />
+      <recent name="D:\Study\PyCharmProject\LearnPython\learn_pillow" />
+      <recent name="D:\Study\PyCharmProject\LearnPython\learn_md5" />
+      <recent name="D:\Study\PyCharmProject\LearnPython\learn_aws" />
       <recent name="C:\workspace\Python\LearnPython\simpleProcedure" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Study\PyCharmProject\LearnPython\learn_closure" />
+      <recent name="D:\Study\PyCharmProject\LearnPython\leaen_pytest" />
+      <recent name="D:\Study\PyCharmProject\LearnPython\leaen_pytest\dir1" />
+      <recent name="D:\Study\PyCharmProject\LearnPython\learn_xml\xml_dom" />
       <recent name="C:\workspace\Python\LearnPython\simpleProcedure" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.genData">
-    <configuration name="MyTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.wrapper5">
+    <configuration name="wrapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,56 +239,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_unittest" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_unittest/MyTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="TestCalcFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LearnPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_unittest" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_unittest/TestCalcFunctions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LearnPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_unittest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_closure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Study\PyCharmProject\LearnPython\learn_unittest\Calc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_closure/wrapper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="genData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wrapper2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,18 +260,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/howTOPrepareTestData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_closure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/howTOPrepareTestData/genData.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_closure/wrapper2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="unittest_suite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wrapper3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -371,31 +281,75 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_unittest" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_closure" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_unittest/unittest_suite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_closure/wrapper3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wrapper4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_closure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_closure/wrapper4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wrapper5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wrapper5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.calc" />
-      <item itemvalue="Python.MyTest" />
-      <item itemvalue="Python.TestCalcFunctions" />
-      <item itemvalue="Python.unittest_suite" />
-      <item itemvalue="Python.genData" />
+      <item itemvalue="Python.wrapper" />
+      <item itemvalue="Python.wrapper2" />
+      <item itemvalue="Python.wrapper3" />
+      <item itemvalue="Python.wrapper4" />
+      <item itemvalue="Python.wrapper5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.genData" />
-        <item itemvalue="Python.unittest_suite" />
-        <item itemvalue="Python.TestCalcFunctions" />
-        <item itemvalue="Python.MyTest" />
-        <item itemvalue="Python.calc" />
+        <item itemvalue="Python.wrapper5" />
+        <item itemvalue="Python.wrapper4" />
+        <item itemvalue="Python.wrapper2" />
+        <item itemvalue="Python.wrapper3" />
+        <item itemvalue="Python.wrapper" />
       </list>
     </recent_temporary>
   </component>
@@ -410,6 +364,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572949249467</updated>
     </task>
+    <task id="LOCAL-00001" summary="from_dell_pycharm_commit">
+      <created>1573263983882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573263983882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -444,412 +406,46 @@
       <configuration name="Unittests in TestSeqFunctions.py" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42739725" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40039062" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5171696" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
-    </layout>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="from_dell_pycharm_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="from_dell_pycharm_commit" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="12" />
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/24_sortList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/1_CaculateBySum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/25_counter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/24_sortDict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_file/read_file_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/23_lambda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/12_with.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_re/search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_re/match.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_re/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_re/MatchandSearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_re/group_span.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_re/split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_re/findall.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/26_re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/27_filter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/28_genListexpr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/30_type.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/31_addList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/32_delFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/33_printTimestamp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/36_raiseException.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/39_traverseList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/40_join_iterable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/41_try_else_finally.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_json/test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_json/test2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_json/jjson.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/43_zip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/44_re_sub.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_re/sub.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/51_findall.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/52_sortListASC.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/54_round.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/66_copy_deepcopy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/73_sorted2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/72_sorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/71_sort_sorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/70_string_strip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpleProcedure/69_genrator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_unittest/TestSequenceFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_unittest/TestMyClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_unittest/Calc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_unittest/MyTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_unittest/TestSeqFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_unittest/TestCalcFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/glob.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_unittest/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_unittest/unittest_suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding>
-            <element signature="e#19#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/howTOPrepareTestData/genData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="745" height="198" key="GridCell.Tab.0.bottom" timestamp="1600586918998">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="745" height="198" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600586918998" />
+    <state width="745" height="198" key="GridCell.Tab.0.center" timestamp="1600586918998">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="745" height="198" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600586918998" />
+    <state width="745" height="198" key="GridCell.Tab.0.left" timestamp="1600586918998">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="745" height="198" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600586918998" />
+    <state width="745" height="198" key="GridCell.Tab.0.right" timestamp="1600586918998">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="745" height="198" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600586918998" />
+    <state x="270" y="61" key="SettingsEditor" timestamp="1600496122091">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600496122091" />
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1600585541647">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1600585541647" />
   </component>
 </project>

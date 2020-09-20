@@ -1,5 +1,6 @@
 def demo(args_f, *args_v):
     print(args_f)
+    print(type(args_v))
     for x in args_v:
         print(x)
 
@@ -31,6 +32,7 @@ def demo3(args_f, default_v=123,  *args_v, **args_v2):
     for k, v in args_v2.items():
         print(k, ": ", v)
 
+
 print('------------------------------------------------')
 
 demo3(['a', 'a2', 'a3'], 100, 'c', 'd', 'e', name='h', age='h2')
@@ -38,6 +40,8 @@ demo3(['a', 'a2', 'a3'], 100, 'c', 'd', 'e', name='h', age='h2')
 
 def print_hello(name, sex):
     print('hello %s %s, welcome to python world!' % (name, '先生'))
+
+
 print_hello('Nick', '先生')
 # 输出：hello Nick 先生, welcome to python world!
 
@@ -72,7 +76,6 @@ print_hello('Nick', '先生')
 # # 1
 # # 2
 # # 3
-
 
 
 # def func(**kwargs):
@@ -112,6 +115,7 @@ def func(name, age, sex=1, *args, **kwargs):
 
     for k, v in kwargs.items():
         print(k, ": ", v)
+
 
 func('Cate', 14, 0, 'friendly', 'talented', 'easy-going', company='Apache', salary=30000)
 # 输出：

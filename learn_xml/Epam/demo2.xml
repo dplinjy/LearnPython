@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<lib:library
+xmlns:lib="http://server.domain.tld/NameSpaces/Library">
+<lib:book>
+<lib:title>Sandman volumn</lib:title>
+<lib:author>Neil Gaiman</lib:author>
+</lib:book>
+<lib:book>
+<lib:title>Good omens</lib:title>
+<lib:author>Neil Gamain</lib:author>
+<lib:author>Terry Pratchett</lib:author>
+</lib:book>
+<lib:book>
+<lib:title>"Repent,harlequin!" said the man</lib:title>
+<lib:author>Harlan Ellison</lib:author>
+</lib:book>
+</lib:library>

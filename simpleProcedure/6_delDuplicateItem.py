@@ -8,3 +8,4 @@ lis2 = list(a)
 
 print(lis2)
 
+print(list(set(lis)))
